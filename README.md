@@ -1,1 +1,2 @@
-# javascript-referencia
+# JS - Referência para estudos
+
